@@ -4,4 +4,4 @@ Figma で inspect からそのままスタイル当てたもの。
 
 ## inspect
 
-アップデート後、Dev Mode にしないと表示できなくなった
+Dev Mode にメニューあり。
